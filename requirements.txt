@@ -1,0 +1,6 @@
+textdistance
+sentence_transformers
+pandas
+numpy
+spacy
+PyPDF2
